@@ -1,0 +1,7 @@
+Las "memorias principales" de una computadora generalmente se refieren a los tipos de memoria utilizados para almacenar y acceder a datos de manera rápida. Aquí tienes tres tipos de memorias principales:
+
+Memoria RAM (Random Access Memory): La memoria RAM es una memoria volátil que se utiliza para almacenar temporalmente los datos y programas que están en uso en un momento dado. Proporciona acceso rápido para la CPU y permite que las aplicaciones se ejecuten de manera eficiente. Sin embargo, su contenido se borra cuando se apaga la computadora.
+
+Memoria Cache: La memoria caché es una memoria de alta velocidad que actúa como un intermediario entre la memoria RAM y la CPU. Hay varios niveles de caché (L1, L2, L3) que almacenan datos e instrucciones frecuentemente utilizados para reducir los tiempos de acceso y mejorar el rendimiento del procesador.
+
+Memoria ROM (Read-Only Memory): La memoria ROM es una memoria de solo lectura que contiene instrucciones y datos esenciales para arrancar el sistema y realizar tareas fundamentales. Por lo general, no se puede escribir ni modificar, y su contenido es permanente. La BIOS (Sistema Básico de Entrada/Salida) de la computadora se almacena en la memoria ROM.

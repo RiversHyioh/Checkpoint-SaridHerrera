@@ -1,0 +1,26 @@
+  git clone https://github.com/RiversHyioh/Checkpoint-SaridHerrera.git
+  git add .
+  git branch feature
+  git checkout feature
+  mkdir Hardware
+  mkdir Software
+  mkdir SeguridadInformatica
+  cd Hardware
+  touch resumen.txt
+  cd ..
+  cd Software
+  touch resumen.txt
+  cd ..
+  cd SeguridadInformatica
+  touch resumen.txt
+  cd ..
+  git add .
+  git commit -m "commit 02 de Sarid Herrera"
+  git push -u origin feature
+  git checkout main
+  git mv main.js resumenHardware.txt
+  git mv index.html resumenSoftware.txt
+  touch comandos.txt
+  git history
+  history
+
